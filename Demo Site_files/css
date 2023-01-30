@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/vendor/gstatic/s/lato/v23/S6u8w4BMUTPHjxsAUi-s.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/assets/vendor/gstatic/s/lato/v23/S6uyw4BMUTPHjxAwWA.woff) format('woff');
+}
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(/assets/vendor/gstatic/s/lato/v23/S6u9w4BMUTPHh50XSwaPHw.woff) format('woff');
+}
